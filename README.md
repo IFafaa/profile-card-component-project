@@ -25,14 +25,14 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/desktop-screenshot.png)
-![](./screenshots/)
+![](./screenshots/mobile-screenshot.jpeg)
 
 
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-component-with-mediaquerry-html-css-and-flexbox-U-gEuyBgsZ]
+- Live Site URL: [https://ifafaa.github.io/profile-card-component-project/]
 
 
 ### Built with
@@ -40,6 +40,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- MediaQuerry
 
 
 ### What I learned
